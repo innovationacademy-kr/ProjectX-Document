@@ -209,6 +209,15 @@ input과 output
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/) : 앤드유 응 교수의 ML 프로젝트를 진행할 때 고려해야 할 우선순위, 성능에 대한 고려 사항 (딥러닝 기술 자체를 다룬 책은 아니라 필독). PDF 버전을 인터넷에서 쉽게 구할 수 있음.
 * [AI Hub](http://www.aihub.or.kr/) : AI 학습용 데이터가 모여있는 곳.
 
+### CAPTCHA-2-T007.tar.gz 설명
+```
+이 파일을 이 프로젝트를 수행하기 위한 개발 환경, 테스트 데이터 준비, 시험 환경 등 과제 수행을 위해 필요한 파일들을 압축한 것을 안에 있는 파일들을 여기서 설몀
+```
+* doc/CAPTCHA-2-D007.lo.pdf : 이 프로젝트 설명 파일과, 'lo'에 따라 다른 언어 버전.
+* captcha-gen : 4-8자리 숫자로 구성된 CAPTCHA 이미지 생성 프로그램
+* CAPTCHA-dev-env-image.tar : CAPTCHA 프로젝트 개발 환경이 담긴 Docker Image
+
+
 ### 프로젝트를 수행/리뷰/평가/멘토링을 위한 모든 정보 online Forum
 
 아래 Forum, 사이트에서 이 프로젝트를 수행하는 다른 학생들과 만나서 학습 정보를 교환할 수 있으며, 평가, 멘토링, 코드리뷰를 받을 수 있음.
