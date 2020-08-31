@@ -192,6 +192,15 @@ input과 output
 1. 여러 숫자 이미지 과제와, 숫자 CAPTCHA 생성 프로그램은 직접 작성하는 것이 테스트 모드에서 사용하며, 결과 검증 모드로 실행할 때에서는 과제의 데이터 파일에 있는 (captcha-gen) 실행 파일을 통해 생성된 00.png ~ 99.png 100개의 이미지를 이용하되, 이름을 이미지를 차례로 읽어 이름을 random하게 바꾸어 적용되도록 함. 그리고 50% 이상의 답을 맞추는 것이 목표임. 맞추는 비율에 따라 포인트가 부여됨
 1. 번호판 인식은 본인이 생성, 수집한 데이터로 과제를 수행하며, 검증은 별도의 비공개된 데이터셋을 이용함
 
+
+### CAPTCHA-2-T007.tar.gz 설명
+```
+이 파일을 이 프로젝트를 수행하기 위한 개발 환경, 테스트 데이터 준비, 시험 환경 등 과제 수행을 위해 필요한 파일들을 압축한 것을 안에 있는 파일들을 여기서 설몀
+```
+* doc/CAPTCHA-2-D007.lo.pdf : 이 프로젝트 설명 파일과, 'lo'에 따라 다른 언어 버전.
+* captcha-gen : 4-8자리 숫자로 구성된 CAPTCHA 이미지 생성 프로그램
+* CAPTCHA-dev-env-image.tar : CAPTCHA 프로젝트 개발 환경이 담긴 Docker Image
+
 ## 학습 지원 정보
 
 ### 이 프로젝트 수행을 위한 학습 리소스
@@ -208,15 +217,6 @@ input과 output
 * [Tensorflow KR 페이스북 그룹](https://www.facebook.com/groups/TensorFlowKR) : tensorflow를 학습하거나, tensorflow, 다른 Machine Learning 도구에 관한 연구, 응용 제작을 하는 분들의 모임. 질의 응답이 매우 활발함.
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/) : 앤드유 응 교수의 ML 프로젝트를 진행할 때 고려해야 할 우선순위, 성능에 대한 고려 사항 (딥러닝 기술 자체를 다룬 책은 아니라 필독). PDF 버전을 인터넷에서 쉽게 구할 수 있음.
 * [AI Hub](http://www.aihub.or.kr/) : AI 학습용 데이터가 모여있는 곳.
-
-### CAPTCHA-2-T007.tar.gz 설명
-```
-이 파일을 이 프로젝트를 수행하기 위한 개발 환경, 테스트 데이터 준비, 시험 환경 등 과제 수행을 위해 필요한 파일들을 압축한 것을 안에 있는 파일들을 여기서 설몀
-```
-* doc/CAPTCHA-2-D007.lo.pdf : 이 프로젝트 설명 파일과, 'lo'에 따라 다른 언어 버전.
-* captcha-gen : 4-8자리 숫자로 구성된 CAPTCHA 이미지 생성 프로그램
-* CAPTCHA-dev-env-image.tar : CAPTCHA 프로젝트 개발 환경이 담긴 Docker Image
-
 
 ### 프로젝트를 수행/리뷰/평가/멘토링을 위한 모든 정보 online Forum
 
