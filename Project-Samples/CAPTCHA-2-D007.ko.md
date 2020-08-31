@@ -198,8 +198,8 @@ input과 output
 이 파일을 이 프로젝트를 수행하기 위한 개발 환경, 테스트 데이터 준비, 시험 환경 등 과제 수행을 위해 필요한 파일들을 압축한 것을 안에 있는 파일들을 여기서 설몀
 ```
 * doc/CAPTCHA-2-D007.lo.pdf : 이 프로젝트 설명 파일과, 'lo'에 따라 다른 언어 버전.
-* captcha-gen : 4-8자리 숫자로 구성된 CAPTCHA 이미지 생성 프로그램
 * CAPTCHA-dev-env-image.tar : CAPTCHA 프로젝트 개발 환경이 담긴 Docker Image
+* captcha-gen : 4-8자리 숫자로 구성된 CAPTCHA 이미지 생성 프로그램 (위 컨테이너 안에서 있고, 그 안에서 실행 가능)
 
 ## 학습 지원 정보
 
