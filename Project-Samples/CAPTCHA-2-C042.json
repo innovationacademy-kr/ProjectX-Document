@@ -1,0 +1,38 @@
+{
+  "CAPTCHA-2": {
+    "Description Guide": "/* DO NOT DELETE THIS LINE, SEE THE GUIDE  BEFORE YOU REGISTER A PROJECT */ Project description guide: https://~~.~~.~~/~~, Developer Capability Guide : http://~~.~~.~~/~~, (C) 2020 Innovation Academy",
+    "Version": {
+      "c-version": "042",
+      "change date": "2020-03-29-09:56",
+      "change log": "Capability Level definition changed by AI",
+      "copyright": "(c) 2020 Innovation Academy, CC-BY-ND"
+    },
+    "Capability": {
+      "level": 67,
+      "required": [
+        {
+          "capability": "PYTHON",
+          "level": 1
+        },
+        {
+          "capability": "ALGOR",
+          "level": 3.5
+        },
+        {
+          "capability": "MLFRM",
+          "level": 2
+        }
+      ],
+      "achievable": [
+        {
+          "capability": "ALGOR",
+          "level": 4
+        },
+        {
+          "capability": "MLFRM",
+          "level": 4.5
+        }
+      ]
+    }
+  }
+}
