@@ -1,0 +1,40 @@
+{
+  "CAPTCHA-2": {
+  "Description Guide": "/* DO NOT DELETE THIS LINE, SEE THE GUIDE  BEFORE YOU REGISTER A PROJECT */ Project description guide: https://~~.~~.~~/~~, Developer Capability Guide : http://~~.~~.~~/~~,  (C) 2020 Innovation Academy",
+   "Project Description": "Building AI Bot to beat CAPTCHA challenge",
+    "Version": {
+      "format": "001",
+      "version": "007",
+      "release date": "2020-03-27-17:56",
+      "release brief": "Add more visualization requirements",
+      "copyright": "(c) 2020 Innovation Academy, CC-BY-ND"
+    },
+    "Category": [
+      "Machine Learning",
+      "Tensorflow",
+      "Algorithm",
+      "Front End",
+      "Python"
+    ],
+    "Map": {
+      "Predecessor": [
+        {
+          "title": "CAPTCHA-1",
+          "required level": "must"
+        },
+        {
+          "title": "IMAGERECOGNITION-2",
+          "required level": "low"
+        }
+      ],
+      "Successor": [
+        {
+          "title": "CAPTCHA-3"
+        },
+        {
+          "title": "IMAGERECOGNITION-4"
+        }
+      ]
+    }
+  }
+}
