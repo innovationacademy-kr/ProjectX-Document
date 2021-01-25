@@ -48,14 +48,14 @@
 
 ## 5. 역량 모델 세부내용
 
-* 학습 수준 _ Competency Level.md
-* 역량 모델 구조도 _ Competency Model.md
-* AI 경험 List _ Experience of AI.md
-* Back-End 경험 List _ Experience of Back-End.md
-* Front-End 경험 List(Android) _ Experience of Front-end(Android).md
-* Front-End 경험 List(Web) _ Experience of Front-end(Web).md
-* Front-End 경험 List(iOS) _ Experience of Front-end(iOS).md
-* 지식/기술 List _ Knowledge&skill.md
-* Soft-Skill List _ Soft-Skills.md
+* 학습 수준 _ [Competency Level.md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Competency%20Level.md)
+* 역량 모델 구조도 _ [Competency Model.md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Competency%20Model.md)
+* AI 경험 List _ [Experience of AI.md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Experience%20of%20AI.md)
+* Back-End 경험 List _ [Experience of Back-End.md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Experience%20of%20Back-End.md)
+* Front-End 경험 List(Android) _ [Experience of Front-end(Android).md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Experience%20of%20Front-end(Android).md)
+* Front-End 경험 List(Web) _ [Experience of Front-end(Web).md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Experience%20of%20Front-end(Web).md)
+* Front-End 경험 List(iOS) _ [Experience of Front-end(iOS).md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Experience%20of%20Front-end(iOS).md)
+* 지식/기술 List _ [Knowledge&skill.md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Knowledge%26skill.md)
+* Soft-Skill List _ [Soft-Skills.md](https://github.com/innovationacademy-kr/ProjectX-Document/blob/master/skill_framwork/Soft-Skills.md)
 <br>
 <hr>
