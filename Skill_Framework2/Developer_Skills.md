@@ -19,7 +19,7 @@
 
 ## 작성 기준
 - 기업현장, 개발자들이 현장에서 평가하고 채용하는 내용을 기준으로 수집하고자 합니다. (헷갈린다면 채용기술서 기준이라고 생각)
-- 기초데이터는 [StackOverflow 2020년 개발자 관련조사](https://insights.StackOverflow.com/survey/2020)를 기준으로 작성했습니다.(전세계 65,000명 응답)
+- 기초데이터는 [StackOverflow 2020년 개발자 관련조사](https://insights.stackoverflow.com/survey/2020)를 기준으로 작성했습니다.(전세계 65,000명 응답)
 
 ## 참고
 - "프로그래머스"에서 [2020년 개발자 설문조사](https://programmers.co.kr/pages/dev-survey-2020#developer-tech-stack-editor)한 내역이 있습니다.
