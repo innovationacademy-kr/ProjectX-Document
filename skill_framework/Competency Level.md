@@ -1,4 +1,4 @@
-# Competecy Level
+# Competency Level
 
 * `학습 수준 가이드`
 * `분야별 학습 수준`
@@ -7,7 +7,7 @@
 
 ## 학습 수준 가이드
 
-### 제시된 학습과제 수준(Edu1~6)에 따른 지식 습득 수준 및 업무 수행 수준 (Tech-Skill, Soft Skill) 구분은 다음과 같습니다.
+### 제시된 학습과제 수준(Edu1~6)에 따른 지식 습득 수준 및 업무 수행 수준 (Tech-Skill, Soft-Skill) 구분은 다음과 같습니다.
 <hr>
 
 | 과제 난이도 | 기존 교육 체계 맵핑                                                    | 지식  습득 수준                             | 업무 수행 수준 (Tech-skill 발휘)              | 업무 수행 수준 (Soft-skill 발휘)      |
