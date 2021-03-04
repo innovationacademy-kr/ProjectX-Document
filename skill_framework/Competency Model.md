@@ -1,4 +1,4 @@
-# Competecy Model
+# Competency Model
 
 * `소프트웨어 분야 역량 모델 개요`
 * `소프트웨어 분야 역량 모델 List`

@@ -27,7 +27,7 @@
 
 ## Discussion
 - 산업별로 각 항목별 관점이 다를 수 있습니다.
-- 이 논의에 도움주실분을 기다립니다.  주관적 의견, 환영합니다.
+- 이 논의에 도움주실 분을 기다립니다. 주관적 의견, 환영합니다.
 - PR로 참여를 부탁드립니다.
 
 # 개발자 유형 Developer Type
@@ -35,7 +35,7 @@
 ## 작성 기준
 - 기업현장, 개발자들이 현장에서 평가하고 채용하는 내용을 기준으로 수집하고자 합니다.
 - 일반적으로 하나의 유형에는 필수적으로 익혀야 할 "기술세트(하드스킬 + 소프트스킬)"가 있습니다.
-- 기초데이터는 StackOverFlow에서 개발자들이 응답한 전체 내용으로 기술되었습니다.
+- 기초데이터는 StackOverflow에서 개발자들이 응답한 전체 내용으로 기술되었습니다.
 
 
 |구분|직업군|설명|
@@ -75,29 +75,29 @@
 - 기업현장, 개발자들이 현장에서 평가하고 채용하는 내용을 기준으로 수집하고자 합니다.
 - 기술 숙련도에 대한 평가는 기업별로 개발자별로 상이할 수 있습니다.
 - 그럼에도 불구하고 개발자분들의 "주관적 의견"을 모으고자 합니다.
-- 기초데이터는 StackOverFlow에서 개발자들이 응답한 전체 내용으로 기술되었습니다.
+- 기초데이터는 StackOverflow에서 개발자들이 응답한 전체 내용으로 기술되었습니다.
 
 ## Q&A
 - 스킬이 왜 이거밖에 없나요?
-   - StackOverFlow 기준이며 응답자가 적은 건 삭제하였습니다.
+   - StackOverflow 기준이며 응답자가 적은 건 삭제하였습니다.
 - 더 상세한 설명describe을 하고 싶어요.
-   - 상세 의견이 많은 항목에 대해 기술레벨을 더 상세하게 쪼갤 예정입니다. 
+   - 상세 의견이 많은 항목에 대해 기술레벨을 더 상세하게 쪼갤 예정입니다.
 - 협업툴도 중요한가요?
-   - 협업툴은 "힘께 일하는 스킬"에 대한 내용이므로 같은 무게로 다루어집니다. 
-   - StackOverFlow 기반이므로 오픈된 협업툴 응답률이 높습니다.
+   - 협업툴은 "힘께 일하는 스킬"에 대한 내용이므로 같은 무게로 다루어집니다.
+   - StackOverflow 기반이므로 오픈된 협업툴 응답률이 높습니다.
 - "구분"항목을 바꿀 수는 있나요?
    - 구분항목 : 언어/웹프레임워크/기타프레임워크/DB스킬/협업툴
-   - 추가 및 변경될 수 있지만, 국제트렌드와 맞추기 위해 StackOverFlow와 가능하면 맞추려고 합니다.
+   - 추가 및 변경될 수 있지만, 국제트렌드와 맞추기 위해 StackOverflow와 가능하면 맞추려고 합니다.
 
 |구분|항목|하|중하|중중|중상|상|
 |---|---|---|---|---|---|---|
 |Language||||||  <!-- Language -->
 ||JavaScript|||||
-||HTML/CSS|||||			
-||SQL|||||		
+||HTML/CSS|||||
+||SQL|||||
 ||Python|||||
 ||JavaScript|||||
-||Bach/Shell/PowerShell|||||
+||Bash/Shell/PowerShell|||||
 ||C#|||||
 ||PHP|||||
 ||TypeScript|||||
@@ -144,7 +144,7 @@
 ||Unity 3D|||||
 ||Ansible|||||
 ||Flutter|||||
-||Teraform|||||
+||Terraform|||||
 ||Hard|||||
 ||Cordova|||||
 ||Xamarin|||||
@@ -153,11 +153,11 @@
 ||Hadoop|||||
 ||Unreal Engine|||||
 ||Puppet|||||
-||Chief|||||
+||Chef|||||
 |Database Skills|||||| <!-- Database Skills -->
 ||MySQL|||||
 ||PostgreSQL|||||
-||MS SQL Server|||||
+||MSSQL Server|||||
 ||SQLite|||||
 ||MongoDB|||||
 ||Redis|||||
@@ -176,7 +176,7 @@
 ||AWS|||||
 ||Android|||||
 ||MacOS|||||
-||Rasberry Pi|||||
+||Raspberry Pi|||||
 ||Microsoft Azure|||||
 ||WordPress|||||
 ||Google Cloud Platform|||||
@@ -187,16 +187,16 @@
 ||Slack Apps and Integrations|||||
 ||IBM Cloud or Watson|||||
 |Cooperation Tools||||||  <!--Cooperation Tools -->
-||Github|||||				
+||GitHub|||||
 ||Slack|||||
-||Jira|||||			
+||Jira|||||
 ||Google Suite(Docs, Meet, etc)|||||
-||Gitlab|||||
-||Gonfluence|||||
+||GitLab|||||
+||Confluence|||||
 ||Trello|||||
 ||Microsoft Teams|||||
 ||Microsoft Azure|||||
-||Stack Overflow for Teams|||||
+||StackOverflow for Teams|||||
 ||Facebook Workplace|||||
 
 
